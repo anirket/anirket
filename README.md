@@ -1,6 +1,6 @@
 ### Hi there I am aniket! 👋
 
-
+<img src="img.png">
 
 - 🔭 I’m currently working on **Vanilla Javascript**  
 - 🌱 I’m currently learning **Node js**
