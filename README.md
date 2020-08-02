@@ -1,6 +1,6 @@
 ### Hi there I am aniket! 👋
 
-![image](img.png)
+<img src="anirket/img.png">
 
 - 🔭 I’m currently working on **Vanilla Javascript**  
 - 🌱 I’m currently learning **Node js**
