@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on **Nodejs and Expresst**  
+- 🔭 I’m currently working on **Nodejs and Express**  
 - 🌱 I’m currently learning **React**
 - 📫 would love to connect!  [Twitter](https://twitter.com/anirket) [LinkedIn](https://www.linkedin.com/in/aniket-kulkarni-908557188/) [Instagram](https://www.instagram.com/anirket/?hl=en)
 
