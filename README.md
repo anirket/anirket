@@ -4,3 +4,6 @@
 - <img src="https://komarev.com/ghpvc/?username=anirket&style=flat&color=green">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anirket&hide=stars&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirket&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
