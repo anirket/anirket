@@ -1,9 +1,8 @@
-- 🌱 I’m currently learning **React**
-- 📫 would love to connect!  [Twitter](https://twitter.com/anirket) [LinkedIn](https://www.linkedin.com/in/aniket-kulkarni-908557188/) [Instagram](https://www.instagram.com/anirket/?hl=en)
+- Hey 👋 I'm Aniket
 
-- <img src="https://komarev.com/ghpvc/?username=anirket&style=flat&color=green">
+- I like to work mostly on Frontend Technologies like _Next.js, React, Redux_ and sometimes on backend stuff like _Node.js and Express_
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anirket&hide=stars&show_icons=true&theme=dark)
+- Drop in a _Hi_ at: [Twitter](https://twitter.com/anirket)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirket&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
