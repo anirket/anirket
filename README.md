@@ -1,8 +1,13 @@
-- Hey 👋 I'm Aniket
+### Hey 👋 I'm Aniket
 
-- I like to work mostly on Frontend Technologies like _Next.js, React, Redux_ and sometimes on backend stuff like _Node.js and Express_
+Learning to build with LLMs — agents, evals, retrieval, and the glue
+that holds them together.
 
-- Drop in a _Hi_ at: [Twitter](https://twitter.com/anirket)
+Mostly Python these days. Working through tool-calling loops, structured
+outputs, RAG, MCP and how to actually measure whether any of it works,
+one small project at a time.
+
+Four years shipping production software before this.
 
 
 
